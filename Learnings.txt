@@ -1,0 +1,3 @@
+By setting the box-sizing property to border-box the padding and border of an element doesn't add to the original size of an element anymore.
+
+letter-spacing property creates space between characters
