@@ -14,3 +14,5 @@ the :not pseudo-selector selects all elements that do not match the given CSS ru
 Syntax:     div:not(#example) {
               color: red;
             }
+
+text-indent property specifies the indentation of the first line of a text-block. Negative values are allowed and will push the text to the left
