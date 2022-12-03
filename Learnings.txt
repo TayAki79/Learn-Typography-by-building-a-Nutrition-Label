@@ -1,3 +1,16 @@
 By setting the box-sizing property to border-box the padding and border of an element doesn't add to the original size of an element anymore.
 
 letter-spacing property creates space between characters
+
+float property is placing an element on the left or right of its container
+
+rem = root em, is a unit relative to the font-size of the html element
+
+the overflow property controls how an element behaves inside a smaller area. It only works on block elements.
+
+the clear property how an element behaves next to a floating element
+
+the :not pseudo-selector selects all elements that do not match the given CSS rule
+Syntax:     div:not(#example) {
+              color: red;
+            }
